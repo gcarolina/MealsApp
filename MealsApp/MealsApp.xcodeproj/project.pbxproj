@@ -22,6 +22,7 @@
 		F143E8AB294A5F8C004B418E /* MealDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F143E8AA294A5F8C004B418E /* MealDetailViewController.swift */; };
 		F143E8AD294A5FBF004B418E /* FeedbackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F143E8AC294A5FBF004B418E /* FeedbackViewController.swift */; };
 		F143E8AF294A5FEB004B418E /* ReviewsTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F143E8AE294A5FEB004B418E /* ReviewsTableVC.swift */; };
+		F17F1AC8294A884000E02C9F /* UIExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17F1AC7294A884000E02C9F /* UIExt.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		F143E8AA294A5F8C004B418E /* MealDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealDetailViewController.swift; sourceTree = "<group>"; };
 		F143E8AC294A5FBF004B418E /* FeedbackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackViewController.swift; sourceTree = "<group>"; };
 		F143E8AE294A5FEB004B418E /* ReviewsTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewsTableVC.swift; sourceTree = "<group>"; };
+		F17F1AC7294A884000E02C9F /* UIExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIExt.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				F143E8AA294A5F8C004B418E /* MealDetailViewController.swift */,
 				F143E8AC294A5FBF004B418E /* FeedbackViewController.swift */,
 				F143E8AE294A5FEB004B418E /* ReviewsTableVC.swift */,
+				F17F1AC6294A882A00E02C9F /* Extensions */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -140,6 +143,14 @@
 				F143E8A4294A54AC004B418E /* ReviewTableViewCell.xib */,
 			);
 			path = Review;
+			sourceTree = "<group>";
+		};
+		F17F1AC6294A882A00E02C9F /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				F17F1AC7294A884000E02C9F /* UIExt.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -223,6 +234,7 @@
 				F143E89C294A45E6004B418E /* Meal.swift in Sources */,
 				F143E89E294A4718004B418E /* Feedback.swift in Sources */,
 				F143E883294A33B9004B418E /* AppDelegate.swift in Sources */,
+				F17F1AC8294A884000E02C9F /* UIExt.swift in Sources */,
 				F143E8A5294A54AC004B418E /* ReviewTableViewCell.swift in Sources */,
 				F143E885294A33B9004B418E /* SceneDelegate.swift in Sources */,
 			);

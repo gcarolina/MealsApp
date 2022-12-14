@@ -15,6 +15,7 @@ class FeedbackViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        hideKeyboardWhenTappedAround()
         feedBackTextView.delegate = self
         saveFeedBackBtn.layer.cornerRadius = saveFeedBackBtn.frame.size.height / 2
     }

@@ -17,7 +17,7 @@ struct Meal {
         if let rating = rating {
             return String(repeating: "★", count: Int(rating.rounded(.up)))
         } else {
-            return "There are no reviews yet"
+            return "Пока что нет отзывов :("
         }
     }
 
