@@ -18,9 +18,9 @@ class MealsTVC: UITableViewController {
     
     // MARK: - Table view data source
     
-    //    override func numberOfSections(in tableView: UITableView) -> Int {
-    //    }
-    
+//    override func numberOfSections(in tableView: UITableView) -> Int {
+//    }
+
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         100
     }

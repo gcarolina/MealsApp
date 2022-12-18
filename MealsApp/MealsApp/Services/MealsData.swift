@@ -16,7 +16,6 @@ class MealsData {
                  Meal(name: "Наггетсы", price: 8.0, image: #imageLiteral(resourceName: "наггетсы.png")),
                  Meal(name: "Тройной чизбургер", price: 10.6, image: #imageLiteral(resourceName: "ТройнойЧизбургер.png")),
                  Meal(name: "Двойной филе-о-фиш", price: 8.9, image: #imageLiteral(resourceName: "Двойной-Филе-о-фиш.png")),
-                 Meal(name: "Картошка по-деревенски", price: 5.5, image: #imageLiteral(resourceName: "Деревня_M.png")),
                  Meal(name: "Сок апельсиновый", price: 3.0, image: #imageLiteral(resourceName: "Апельсиновый-сок.png")),
                  Meal(name: "Кола", price: 4.2, image: #imageLiteral(resourceName: "кола.png")),
                  Meal(name: "Вода", price: 3.0, image: #imageLiteral(resourceName: "Банаква-негазированная.png"))]

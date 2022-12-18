@@ -220,7 +220,7 @@
                                             <segment title="★★★★"/>
                                             <segment title="★★★★★"/>
                                         </segments>
-                                        <color key="selectedSegmentTintColor" red="0.71600002712673616" green="0.67847760593021789" blue="0.66489650871290806" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="selectedSegmentTintColor" red="0.57551120025943026" green="0.5453511823246463" blue="0.53443487888295593" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </segmentedControl>
                                     <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="plj-Un-JLG">
                                         <rect key="frame" x="97.333333333333329" y="403.66666666666663" width="178.66666666666669" height="36.333333333333314"/>
